@@ -1,4 +1,4 @@
-# 🌌 DSAverse – Gamify Your DSA Journey
+# 🌌 Welcome to DSAverse
 
 > *DSAverse is a gamified, interactive platform to explore and master Data Structures & Algorithms through themed realms, puzzles, and visual learning adventures.*
 
@@ -6,54 +6,66 @@
 
 ## 📸 Preview
 
-![DSAverse Screenshot](./screenshot.png)  
-*Explore and master DSA through immersive, game-style experiences across galaxies.*
+![image](https://github.com/user-attachments/assets/5a922edc-11cf-404a-ac08-bfc2f393830e)
+![image](https://github.com/user-attachments/assets/94da3c37-c847-4176-9799-ed2348604c76)
+![image](https://github.com/user-attachments/assets/225629cb-0667-4da1-bebe-f05739f3e596)
 
----
 
-## ✨ Key Features
 
-- 🎮 **Gamified Learning:** Solve DSA problems through playable levels and puzzles.
-- 🌌 **Galactic Realms:** Each major DSA concept is a themed realm — **Sorting Realm**, **Forest of Recursion**, **Graph Galaxy**, and **Puzzle Peaks**.
-- 📘 **Clear Concepts:** After every level, get a pop-up recap of the theory, logic, and complexity.
-- 🧾 **Step-by-Step Guidance:** Before each game, you'll see a "How to Play" screen to ease into the level.
-- 🌠 **Progress Tracking:** Collect stars, unlock levels, and master realms one by one.
 
----
-
-## 🧠 Topics Covered
+## 📚 Topics Covered
 
 ### 🔃 Sorting Realm
-- Bubble Sort (with visual comparisons)
-- Insertion Sort
-- Selection Sort
-- Merge Sort
-- Quick Sort
+Explore different sorting algorithms with animations and step-wise comparison:
+- ✅ Bubble Sort – with adjacent element swapping explanation
+- ✅ Insertion Sort
+- ✅ Selection Sort
+- ✅ Merge Sort
+- ✅ Quick Sort
 
 ### 🌳 Forest of Recursion
-- Tower of Hanoi
-- Fibonacci Sequence
-- Climbing Stairs
-- N-Queens Problem
-- 0/1 Knapsack
-- Tree Traversal (Inorder/Preorder/Postorder)
-- Tree Pruning
+Solve puzzles based on recursion and dynamic programming:
+- ✅ Tower of Hanoi
+- ✅ Fibonacci Sequence
+- ✅ Climbing Stairs
+- ✅ N-Queens Problem
+- ✅ 0/1 Knapsack Problem
+- ✅ Tree Traversal (Inorder, Preorder, Postorder)
+- ✅ Tree Pruning
 
 ### 🌐 Graph Galaxy
-- Depth First Search (DFS)
-- Breadth First Search (BFS)
-- Dijkstra’s Shortest Path
+Play graph-based maze games and pathfinding challenges:
+- ✅ Depth First Search (DFS)
+- ✅ Breadth First Search (BFS)
+- ✅ Dijkstra’s Algorithm
 
 ### 🧩 Puzzle Peaks
-- Maze Solving using DFS/BFS
-- Weighted Path Grid (Dijkstra)
+Gamify your problem-solving skills with logic-based challenges:
+- ✅ Maze Solving using DFS/BFS
+- ✅ Weighted Grid using Dijkstra
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Getting Started
 
-- HTML / CSS / JavaScript
-- Custom animations
-- Responsive UI
-- Vanilla logic implementations of all DSA algorithms
-- Custom game logic for interactive learning
+To run the project locally:
+
+### 📦 Prerequisites
+
+Make sure you have:
+- [Node.js](https://nodejs.org/) and npm installed
+
+### ⚙️ Steps
+
+```bash
+# Step 1: Clone the repository
+git clone https://github.com/your-username/DSAverse.git
+
+# Step 2: Navigate to the project directory
+cd DSAverse
+
+# Step 3: Install dependencies
+npm install
+
+# Step 4: Start the development server
+npm run dev
