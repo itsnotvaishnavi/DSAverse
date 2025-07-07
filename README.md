@@ -1,73 +1,72 @@
-# Welcome to your Lovable project
+# 🌌 Welcome to DSAverse
 
-## Project info
+> *DSAverse is a gamified, interactive platform to explore and master Data Structures & Algorithms through themed realms, puzzles, and visual learning adventures.*
 
-**URL**: https://lovable.dev/projects/8cb818d3-65dd-4590-ac0d-25aa3a48a72d
+---
 
-## How can I edit this code?
+## 📸 Preview
 
-There are several ways of editing your application.
+![image](https://github.com/user-attachments/assets/5a922edc-11cf-404a-ac08-bfc2f393830e)
+![image](https://github.com/user-attachments/assets/94da3c37-c847-4176-9799-ed2348604c76)
+![image](https://github.com/user-attachments/assets/225629cb-0667-4da1-bebe-f05739f3e596)
 
-**Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/8cb818d3-65dd-4590-ac0d-25aa3a48a72d) and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
+## 📚 Topics Covered
 
-**Use your preferred IDE**
+### 🔃 Sorting Realm
+Explore different sorting algorithms with animations and step-wise comparison:
+- ✅ Bubble Sort – with adjacent element swapping explanation
+- ✅ Insertion Sort
+- ✅ Selection Sort
+- ✅ Merge Sort
+- ✅ Quick Sort
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### 🌳 Forest of Recursion
+Solve puzzles based on recursion and dynamic programming:
+- ✅ Tower of Hanoi
+- ✅ Fibonacci Sequence
+- ✅ Climbing Stairs
+- ✅ N-Queens Problem
+- ✅ 0/1 Knapsack Problem
+- ✅ Tree Traversal (Inorder, Preorder, Postorder)
+- ✅ Tree Pruning
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### 🌐 Graph Galaxy
+Play graph-based maze games and pathfinding challenges:
+- ✅ Depth First Search (DFS)
+- ✅ Breadth First Search (BFS)
+- ✅ Dijkstra’s Algorithm
 
-Follow these steps:
+### 🧩 Puzzle Peaks
+Gamify your problem-solving skills with logic-based challenges:
+- ✅ Maze Solving using DFS/BFS
+- ✅ Weighted Grid using Dijkstra
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🚀 Getting Started
 
-# Step 3: Install the necessary dependencies.
-npm i
+To run the project locally:
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+### 📦 Prerequisites
+
+Make sure you have:
+- [Node.js](https://nodejs.org/) and npm installed
+
+### ⚙️ Steps
+
+```bash
+# Step 1: Clone the repository
+git clone https://github.com/your-username/DSAverse.git
+
+# Step 2: Navigate to the project directory
+cd DSAverse
+
+# Step 3: Install dependencies
+npm install
+
+# Step 4: Start the development server
 npm run dev
-```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/8cb818d3-65dd-4590-ac0d-25aa3a48a72d) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
