@@ -6,9 +6,11 @@
 
 ## 📸 Preview
 
-![image](https://github.com/user-attachments/assets/5a922edc-11cf-404a-ac08-bfc2f393830e)
-![image](https://github.com/user-attachments/assets/94da3c37-c847-4176-9799-ed2348604c76)
-![image](https://github.com/user-attachments/assets/225629cb-0667-4da1-bebe-f05739f3e596)
+<img width="1913" height="910" alt="image" src="https://github.com/user-attachments/assets/702f8071-52ed-4dc6-a4fc-5af4aff22506" />
+
+<img width="1915" height="911" alt="image" src="https://github.com/user-attachments/assets/c22795c3-66ae-4653-a837-939e4cde09a0" />
+
+<img width="1918" height="895" alt="image" src="https://github.com/user-attachments/assets/73c7bdff-323d-4beb-aad7-7cac7c5b425f" />
 
 
 
