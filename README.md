@@ -60,7 +60,7 @@ Make sure you have:
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/your-username/DSAverse.git
+git clone https://github.com/itsnotvaishnavi/DSAverse.git
 
 # Step 2: Navigate to the project directory
 cd DSAverse
